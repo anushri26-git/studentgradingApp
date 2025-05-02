@@ -8,6 +8,7 @@ count++;
 
 public static void displayCount() {
 System.out.println("Count:" + count);//print statement
+	System.out.println("Count:");
 	//printing the things
 }
 }
