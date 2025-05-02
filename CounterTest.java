@@ -18,7 +18,7 @@ public class CounterTest {
 	public static void main(String[] args) {
 		new Counter();
 		new Counter();
-		Counter.displayCount();
+		Counter.displayCount();//display
 
 	}
 
